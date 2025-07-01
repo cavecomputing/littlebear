@@ -2,7 +2,9 @@
 ![image](/image.webp)
 
 Salutations! 👋
-This is my repo for my roleplay LLM system prompt, which I have dubbed `Little Bear`. There was a `Big Bear` but it got overengineered and was dumb. The primary purpose for this was to try and make something that smaller LLMs could work with while not taking up too much context and also keeping the story flowing in a way I like.
+This is my repo for my roleplay LLM system prompt, which I have dubbed `Little Bear`. There was a `Big Bear` but it got overengineered and was dumb. The primary purpose for this was to try and make something that smaller LLMs could work with while not taking up too much context and also keeping the story flowing in a way I like. Smaller local models are often dumb though so this isn't going to be performing miracles. It should also be fine for any smart models too unless you want more spice and stuff. I didn't intend for this to be a jailbreak in any way so if your goal was to fondle animated waifus...probably won't happen without an uncensored model. At least reliably.
+
+I *might* add a SillyTavern system prompt at some point.
 
 Big thankee to Marinara over [here](https://huggingface.co/MarinaraSpaghetti) for the help with the prompt :D
 
