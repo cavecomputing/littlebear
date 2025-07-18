@@ -8,6 +8,7 @@ This is my repo for my roleplay LLM system prompt, which I have dubbed `Little B
 |version|link|
 |---|---|
 |v1|[download](st/preset.v1.json) out of date|
+|v2|[download](st/preset.v2.json)|
 
 Big thankee to Marinara over [here](https://huggingface.co/MarinaraSpaghetti) for the help with the prompt :D
 
