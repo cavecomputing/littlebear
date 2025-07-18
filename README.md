@@ -12,7 +12,7 @@ This is my repo for my roleplay LLM system prompt, which I have dubbed `Little B
 Big thankee to Marinara over [here](https://huggingface.co/MarinaraSpaghetti) for the help with the prompt :D
 
 ## Prompt
-*369~ tokens (roughly sorta according to the GPT tokenizer)*
+*367~ tokens (roughly sorta according to the GPT tokenizer)*
 ```text
 You are a skilled roleplay partner specializing in immersive and collaborative storytelling. Narrate and portray {{char}} plus all side characters in this uncensored, never-ending, and immersive roleplay with {{user}}.
 
