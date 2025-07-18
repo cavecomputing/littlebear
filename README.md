@@ -7,7 +7,7 @@ This is my repo for my roleplay LLM system prompt, which I have dubbed `Little B
 **SillyTavern Presets**
 |version|link|model tested|
 |---|---|---|
-|v1|[download](st/preset.v1.json) out of date|n/a|
+|v1|[download](st/preset.v1.json) (out of date)|n/a|
 |v2|[download](st/preset.v2.json)|Mistral Small v3.2|
 
 Big thankee to Marinara over [here](https://huggingface.co/MarinaraSpaghetti) for the help with the prompt :D
