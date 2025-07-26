@@ -1,4 +1,7 @@
 # Little Bear v1.6 + Marinara Sauce
+*just a little guy*
+
+---
 ![image](/image.webp)
 
 Salutations! 👋
