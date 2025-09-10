@@ -1,4 +1,4 @@
-# Little Bear v1.7 + Marinara Sauce
+# Little Bear v1.7 + Marinara Sauce (REPLACED BY NANO BEAR)
 *just a little guy*
 
 ---
