@@ -1,7 +1,7 @@
 # Little Bear v2.0 + Marinara Sauce
 *just a little guy.*
 
-**Project Goal**: A roleplay centric system prompt with a hard limit of 729~ tokens (*according to the GPT tokenizer)*.
+**Project Goal**: A roleplay centric system prompt designed to push the story forward a bit faster than `Nano Bear`. 729~ token limit on project.
 
 ---
 ![image](/image.webp)
